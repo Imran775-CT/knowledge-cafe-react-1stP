@@ -1,24 +1,24 @@
-import Blogs from './components/Blogs/Blogs'
-import Header from './components/Header/Header'
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
-import Bookmarks from './components/Bookmarks/Bookmarks'
+import Blogs from './components/Blogs/Blogs';
+import { useState } from 'react';
+import Bookmarks from './components/Bookmarks/Bookmarks';
 
 function App() {
-  
+  const [bookmarked, setBookmarked] = useState([]);
+
+  const handleAddToBookmark = (blog) => {
+    // setBookmarked([...bookmarked, blog]);
+    console.log('bookmark added');
+    
+  };
 
   return (
-    <>
-     <Header></Header> 
-     <div className='md:flex '>
-        <Blogs></Blogs>
-        <Bookmarks></Bookmarks>
-     </div>
-    
-    </>
-  )
+    <div className='md:flex gap-6 container mx-auto px-4'>
+      <Blogs handleAddToBookmark={handleAddToBookmark} />
+      <Bookmarks bookmarked={bookmarked} />
+    </div>
+  );
 }
 
-export default App
+export default App;
+
+
