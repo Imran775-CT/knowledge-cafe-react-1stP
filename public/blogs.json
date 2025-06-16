@@ -1,52 +1,52 @@
 [
   {
     "id": 1,
-    "cover": "https://source.unsplash.com/random/800x400?technology",
+    "cover": "/public/images/1.jpg",
     "title": "Mastering JavaScript in 30 Days",
     "author": "Imran Hossain",
     "img": "https://randomuser.me/api/portraits/men/32.jpg",
     "posted_date": "2025-06-10",
     "reading_time": "5 min read",
-    "hashtags": ["#JavaScript", "#Programming", "#WebDev"]
+    "hashtags": [" #JavaScript", " #Programming", " #WebDev"]
   },
   {
     "id": 2,
-    "cover": "https://source.unsplash.com/random/800x400?coding",
+    "cover": "/public/images/2.png",
     "title": "Why React is Still Dominating Frontend in 2025",
     "author": "Sara Rahman",
     "img": "https://randomuser.me/api/portraits/women/44.jpg",
     "posted_date": "2025-06-11",
     "reading_time": "4 min read",
-    "hashtags": ["#React", "#Frontend", "#Tech"]
+    "hashtags": [" #React", " #Frontend", " #Tech"]
   },
   {
     "id": 3,
-    "cover": "https://source.unsplash.com/random/800x400?ai",
+    "cover": "/public/images/3.png",
     "title": "The Future of AI in Web Development",
     "author": "Tamim Khan",
     "img": "https://randomuser.me/api/portraits/men/53.jpg",
     "posted_date": "2025-06-12",
     "reading_time": "6 min read",
-    "hashtags": ["#AI", "#MachineLearning", "#WebDev"]
+    "hashtags": [" #AI", " #MachineLearning", " #WebDev"]
   },
   {
     "id": 4,
-    "cover": "https://source.unsplash.com/random/800x400?learning",
+    "cover": "/public/images/4.jpg",
     "title": "10 Tips to Learn Coding Faster",
     "author": "Mim Akter",
     "img": "https://randomuser.me/api/portraits/women/22.jpg",
     "posted_date": "2025-06-13",
     "reading_time": "3 min read",
-    "hashtags": ["#Learning", "#Tips", "#Coding"]
+    "hashtags": [" #Learning", " #Tips", " #Coding"]
   },
   {
     "id": 5,
-    "cover": "https://source.unsplash.com/random/800x400?freelancing",
+    "cover": "/public/images/boy1.png",
     "title": "Freelancing as a Developer in Bangladesh",
     "author": "Rakib Hasan",
     "img": "https://randomuser.me/api/portraits/men/12.jpg",
     "posted_date": "2025-06-14",
     "reading_time": "7 min read",
-    "hashtags": ["#Freelancing", "#Career", "#Bangladesh"]
+    "hashtags": [" #Freelancing", " #Career", " #Bangladesh"]
   }
 ]
