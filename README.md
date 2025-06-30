@@ -1,3 +1,49 @@
+# 📁 Tailwind Landing Page Knowledge-cafe-react-1stP
+
+## 🔍 Overview
+This is a responsive landing page built using Tailwind CSS. It can be used for software, agency, gym, or personal portfolio websites.  
+The layout is clean, mobile-friendly, and fully customizable for different types of businesses.
+
+---
+
+## 🚀 Live Demo  
+👉 [Click Here to View Live Site](https://normal-observation.surge.sh)
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5  
+- Tailwind CSS  
+- Git & GitHub  
+- Vite
+
+---
+
+## 📸 Screenshots
+
+| Desktop View | Mobile View |
+|--------------|-------------|
+| ![Desktop](screenshot1.png) | ![Mobile](screenshot2.png) |
+
+*(Optional – Add screenshots later if you want to showcase your design)*
+
+---
+
+## 🔧 Features
+
+- Fully responsive design (mobile + desktop)
+- Modern and clean user interface
+- Built with Tailwind utility classes
+- Fast load time and optimized assets
+- Easy to customize structure and color
+
+---
+
+## 📁 Folder Structure
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
